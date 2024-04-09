@@ -1,2 +1,3 @@
-# Sorting-Visualizer
-A project that will help you to visualize how various sorting algorithms work. For example, in insertion sort, The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
+# Sorting Visualizer
+
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): 
